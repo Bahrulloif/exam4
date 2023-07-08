@@ -1,0 +1,21 @@
+public class Motorcicle : IVehicle
+{
+    public bool IsRunning { get; set; }
+    public int Speed { get; set; }
+
+    public void Start()
+    {
+        System.Console.WriteLine("Starting Motorcicle engine.");
+        IsRunning = true;
+    }
+    public void Stop()
+    {
+        System.Console.WriteLine("Stopping Motorcicle engine.");
+        IsRunning = false;
+    }
+    public void Drive()
+    {
+        System.Console.WriteLine("Driving down the road.");
+        System.Console.WriteLine($"Driving at {Speed} mph");
+    }
+}

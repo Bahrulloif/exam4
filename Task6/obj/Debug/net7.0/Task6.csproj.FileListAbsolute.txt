@@ -1,0 +1,15 @@
+/home/admin/workspace/C#/lesson14/exam/Task6/bin/Debug/net7.0/Task6
+/home/admin/workspace/C#/lesson14/exam/Task6/bin/Debug/net7.0/Task6.deps.json
+/home/admin/workspace/C#/lesson14/exam/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/home/admin/workspace/C#/lesson14/exam/Task6/bin/Debug/net7.0/Task6.dll
+/home/admin/workspace/C#/lesson14/exam/Task6/bin/Debug/net7.0/Task6.pdb
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.dll
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/refint/Task6.dll
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.pdb
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/home/admin/workspace/C#/lesson14/exam/Task6/obj/Debug/net7.0/ref/Task6.dll
